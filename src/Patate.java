@@ -1,6 +1,3 @@
-import java.util.Vector;
-
-
 public class Patate {
 	
 	int type, img;
